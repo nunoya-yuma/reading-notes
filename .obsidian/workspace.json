@@ -79,8 +79,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,12 +212,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b9450e0f236563a6",
+  "active": "0c5711228605727b",
   "lastOpenFiles": [
+    "ignore.md",
+    "Webパフォーマンスチューニング.md",
     "copilot/copilot-conversations/概要説明リクエスト@20260809_164217.md",
     "copilot/copilot-conversations",
     "Pasted image 20260809163153.png",
-    "Webパフォーマンスチューニング.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
