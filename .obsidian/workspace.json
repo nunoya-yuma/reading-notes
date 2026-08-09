@@ -180,9 +180,21 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "b9450e0f236563a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Webパフォーマンスチューニング.md"
+              },
+              "icon": "lucide-info",
+              "title": "ファイルプロパティ"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -201,9 +213,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "06daf5555e95af7b",
+  "active": "b9450e0f236563a6",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/このページの概要を説明して@20260809_164217.md",
+    "copilot/copilot-conversations/概要説明リクエスト@20260809_164217.md",
     "copilot/copilot-conversations",
     "Pasted image 20260809163153.png",
     "Webパフォーマンスチューニング.md",
