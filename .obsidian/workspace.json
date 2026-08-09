@@ -79,7 +79,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,13 +170,23 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
+          },
+          {
+            "id": "06daf5555e95af7b",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 426.16650390625
+    "width": 366.16650390625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +201,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0c5711228605727b",
+  "active": "06daf5555e95af7b",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/このページの概要を説明して@20260809_164217.md",
+    "copilot/copilot-conversations",
     "Pasted image 20260809163153.png",
     "Webパフォーマンスチューニング.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
