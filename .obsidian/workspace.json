@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "Webパフォーマンスチューニング.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "Webパフォーマンスチューニング"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "Webパフォーマンスチューニング.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "Webパフォーマンスチューニング.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "Webパフォーマンスチューニング.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,6 +192,8 @@
   },
   "active": "0c5711228605727b",
   "lastOpenFiles": [
+    "Pasted image 20260809163153.png",
+    "Webパフォーマンスチューニング.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -209,7 +211,6 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "README.md",
-    "無題のファイル.md"
+    "README.md"
   ]
 }

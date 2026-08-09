@@ -1,4 +1,4 @@
-[https://amzn.asia/d/00GtVqf6](https://amzn.asia/d/00GtVqf6)
+URL: [https://amzn.asia/d/00GtVqf6](https://amzn.asia/d/00GtVqf6)
 
 # Chapter1 チューニングの基礎知識
 
@@ -83,3 +83,4 @@
 モニタリングは継続的なテスト
 アラート：正常状態でなくなった場合の通知
 メトリクス：状態を定量的に示した値（レイテンシなど）
+
