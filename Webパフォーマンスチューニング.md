@@ -298,4 +298,12 @@ Requests per secondは変わらず、Time per requestがどんどん大きくな
 	- データを全てメモリ上で制御するため、高速で動く
 - 一般的な文字列、Lists, Sets, Sorted sets, Hash
 
-一貫性と
+
+## NewSQL
+
+- 一貫性と分散を両立
+- RDBMSからNoSQLへの移行は、トランザクション管理やデータ不整合対策に求められる負担が大きかった -> NewSQL
+- Cloud Spanner(GCP), TiDB, Cockroach DBなど
+
+## データベースの整合
+
