@@ -293,6 +293,9 @@ Requests per secondは変わらず、Time per requestがどんどん大きくな
 
 - 強い一貫性がない代わりに高速な処理を実現する
 - 複数サーバーに分散して高いスケーラビリティを持つ
-- 例）memcached
+- 例）memcached、Redisなど
 	- キャッシュ用のKey Value Store(KVS)
 	- データを全てメモリ上で制御するため、高速で動く
+- 一般的な文字列、Lists, Sets, Sorted sets, Hash
+
+一貫性と
