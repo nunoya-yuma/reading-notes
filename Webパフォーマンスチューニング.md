@@ -293,4 +293,6 @@ Requests per secondは変わらず、Time per requestがどんどん大きくな
 
 - 強い一貫性がない代わりに高速な処理を実現する
 - 複数サーバーに分散して高いスケーラビリティを持つ
-- 例）
+- 例）memcached
+	- キャッシュ用のKey Value Store(KVS)
+	- データを全てメモリ上で制御するため、高速で動く
