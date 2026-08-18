@@ -286,3 +286,4 @@ Requests per secondは変わらず、Time per requestがどんどん大きくな
 - データを表のような形式で扱うシステム
 - SQLによる問い合わせや強い一貫性が特徴
 - MariaDB, PostgreSQL, SQLiteなど
+- 複数サーバーに分散させてスケーラビリティ工場を
