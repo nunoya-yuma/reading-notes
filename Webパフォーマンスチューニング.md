@@ -305,5 +305,8 @@ Requests per secondは変わらず、Time per requestがどんどん大きくな
 - RDBMSからNoSQLへの移行は、トランザクション管理やデータ不整合対策に求められる負担が大きかった -> NewSQL
 - Cloud Spanner(GCP), TiDB, Cockroach DBなど
 
-## データベースの整合
+## データベースの選択
+
+- 規模が大きなサービスでない限りRDBMSでよさそう
+
 
